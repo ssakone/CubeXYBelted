@@ -5,10 +5,15 @@ CoreXY 3D Printer with a Belt to automatically eject part. eveything fit inside 
 
 # Features
 -> All inside the frame. no part sticking out
+
 -> Belt for automatic part ejection
+
 -> CoreXY
+
 -> Reuse Most part of the FLsun Cube 3D Printer
+
 -> Dual extruder
+
 
 # BOM
 
@@ -85,6 +90,11 @@ Price should range in the 250-350 $ depending of the supplier
 
 TODO ... 
 (i use two custom tube for the belt that where laying around. you will need to make youre own using 20 mm alu tube and a few custom part (share the part if you do))
+
 # Contributors
+-> maybe you ?
+
 -> me :3
+
 -> every person on grabcad who made each subcompents model like the stepper, raspberry pi, relay, extrusion, etc
+
